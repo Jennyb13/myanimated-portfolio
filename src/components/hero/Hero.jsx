@@ -11,7 +11,7 @@ const sliderVariants = {
         transition: {
             repeat:Infinity,
             repeatType:"mirrow",
-           duration:20,
+           duration:10,
         },
     },
 };
@@ -67,7 +67,7 @@ const Hero = () => {
             initial="initial" 
             animate="animate"
             >
-                !Zen, Green and Creative Coder!!!
+                Zen, Green, Creative Coder
             </motion.div>
             <div className="imageContainer">
                 <img src="/chica.png" alt="cara" />
