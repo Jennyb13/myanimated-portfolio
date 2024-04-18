@@ -5,7 +5,9 @@
 
 Desarrollar mi portafolio web personalizado tiene como objetivo mostrar mis habilidades, proyectos y experiencia profesional en el sector del desarrollo web e inmersivo. El mismo representa un medio tecnologico, para presentar de manera atractiva, dinamica y organizada proyectos propios y colaboraciones que he realizado, así como  destacar las habilidades, intereses y logros que ire alcanzando, en un constate crecimiento y actualizacion de las tecnologias, lenguajes y frameworks.
 
-Crear esta plataforma me permite presentar tecnica, visual y efectivamente, mi marca personal, mis intereses, servicios, desarrollos y proyectos a posibles empleadores, clientes y colaboradores. El portafolio esta diseñado de manera actualizada, dinamica y atractiva, utilizando tecnologías como React.js, Vite, Framer Motion y SCSS para el frontend, y Node.js, Express.js y MongoDB para el backend.
+Crear esta plataforma web,me permite presentar tecnica, visual y efectivamente, mi marca personal, mis intereses, servicios, desarrollos y proyectos a posibles empleadores, clientes y colaboradores. El portafolio esta diseñado de manera actualizada, dinamica y atractiva, utilizando tecnologías como React.js, Vite, Framer Motion y SCSS para el frontend, y Node.js, Express.js y MongoDB para el backend.
+El proyecto esta concebido multiproposito, ya que no solo visualiza los proyectos en un portafolio, sino que tambien,amplia la conexion con el cliente o empleador, mostrando servicios, facilitando informacion complementaria y medios de conexion efectivos.
+No solo cuenta con un Frontend, dinamico, creativo y conceptual de mi marca, sino que tendra un Backend que permitira registro, login, consultar proyectos, recibir actualizaciones y material informativo.
 
 ## 🥇Tecnologías Utilizadas
 
