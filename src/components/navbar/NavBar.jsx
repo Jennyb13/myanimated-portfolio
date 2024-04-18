@@ -1,6 +1,6 @@
-import Sidebar from "../sidebar/Sidebar"
-import "./navbar.scss"
-import {motion} from "framer-motion"
+import Sidebar from "../sidebar/Sidebar";
+import "./navbar.scss";
+import {motion} from "framer-motion";
 
 const Navbar = ( ) => {
     return (
@@ -21,7 +21,7 @@ const Navbar = ( ) => {
                 </div>
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default Navbar
+export default Navbar;
